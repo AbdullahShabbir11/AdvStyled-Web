@@ -1,23 +1,26 @@
-body {
+/* body {
     padding: 0% 1% 1% 1%;
     margin: 0% 1% 1% 1%;
 
-}
+} */
 
 header {
     background-image: url("../assets/images/flywheel.jpg");
     background-color: rgb(240, 248, 255);
     background-repeat: no-repeat;
     background-size: 100% auto;
-    padding-bottom: 6%;
+    padding-bottom: 5%;
+    margin: -2% -2% 0% -2%;
 }
 
 h1 {
+    padding-top: 0.5%;
     text-align: center;
     color: rgb(255, 255, 255);
 }
 
 nav {
+
     margin-top: 2%;
     margin-left: 18%;
 }
@@ -43,6 +46,7 @@ aside.left {
     padding-top: 2%;
     text-align: center;
     background-color: rgb(79, 87, 10);
+    margin-left: -2%;
 
 }
 
